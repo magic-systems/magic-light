@@ -1,1 +1,5 @@
-# magic-lignt2
+# magic-lignt
+```
+npm i
+npm run start
+```
